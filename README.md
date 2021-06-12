@@ -8,7 +8,7 @@
 
 - :drum:  Playing drums is one of my best hobbies
 
-- :video_game: I'm a game development student
+- :video_game: I'm a game development student (3/5)
 
   
 
@@ -31,4 +31,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=adrielfmuniz&show_icons=true&theme=gruvbox" width="465px" height="210" />
     <img src="https://github-profile-trophy.vercel.app/?username=adrielfmuniz&column=7&theme=gruvbox&no-frame=true" width="1200px" /> 
 </details>
-
