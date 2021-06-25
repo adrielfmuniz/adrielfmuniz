@@ -6,7 +6,7 @@
 
 - :soccer: I'm a big fan of soccer
 
-- :drum:  Playing drums is one of my best hobbies
+- :drum:  Playing drums is one of my favourites hobbies
 
 - :video_game: I'm a game development student (3/5)
 
