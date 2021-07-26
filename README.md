@@ -8,7 +8,7 @@
 
 - :drum:  Playing drums is one of my favourites hobbies
 
-- :video_game: I'm a game development student (3/5)
+- :video_game: I'm a game development student (4/5)
 
   
 
