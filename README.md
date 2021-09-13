@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrielfmuniz&label=Profile%20views&color=0e75b6&style=flat" alt="adrielfmuniz" /> </p>
 
-- :airplane: Working for Accenture Brazil as Associate Software Engineer
+- :desktop_computer: Working for Accenture Brazil as Associate Software Engineer
 
 - :soccer: I'm a big fan of soccer
 
